@@ -1,6 +1,6 @@
 # KiCad library
 
-###### Here you can find some KiCad library components created by me. Everything is available under the [MIT License](https://github.com/giogziro95/kicad-library/blob/master/LICENSE); you're free to use or modify my work, but if you distribute your own work (either EDA projects or modified versions of the libraries) that uses libraries or other files from this repo, you should credit me as stated in the license.
+##### Here you can find some KiCad library components created by me. Everything is available under the [MIT License](https://github.com/giogziro95/kicad-library/blob/master/LICENSE); you're free to use or modify my work, but if you distribute your own work (either EDA projects or modified versions of the libraries) that uses libraries or other files from this repo, you should credit me as stated in the license.
 
 ## Libraries
 
@@ -35,4 +35,5 @@ If you want to import a symbol into an already existing library instead, you can
 5. Save the library and confirm your changes.
 
 **Note:** You can also import a symbol within an existing component. To do that, just substitute the second step with selecting the library and loading a component.
+
 **Note 2:** If you just want to use a component from this library, it's highly recommended if you use the entire library rather than the individual components; it's time-saving and it automatically imports all the layouts, properties, descriptions, aliases and keywords of the components, so you don't need to re-edit and -tweak them.
