@@ -8,7 +8,7 @@
 
 #### Components
 
-Here's the list of components included in the _misc_giogziro95.lib_ library file:
+**Here's the list of components included in the _misc_giogziro95.lib_ library file:**
 
 * 7405 (6-bit buffer / line driver; inverting)
 * 74141 (BCD to decimal decoder/driver; active-high outputs)
@@ -28,7 +28,7 @@ Here's the list of components included in the _misc_giogziro95.lib_ library file
 
 1. Go to KiCad and load Eeschema.
 2. Go to _Preferences_ → _Component Libraries_.
-3. Click _Add_ under _Component library files_, then locate and and select the _misc_giogziro95.lib_ file. (Alternatively, you can click another _Add_ under _User defined search path_ and select your project directory and then drop _misc_giogziro95.lib_ file there. This one is convinient when you use multiple libraries and you don't want to deal with adding them individually.)
+3. Click _Add_ under _Component library files_, then locate and and select the desired library file. (Alternatively, you can click another _Add_ under _User defined search path_ and select your project directory and then drop the library file there. This one is convinient when you use multiple libraries and you don't want to deal with adding them individually.)
 4. Click OK.
 5. Now you can place the components from this library.
 
