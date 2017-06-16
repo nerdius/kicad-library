@@ -24,9 +24,7 @@ Here's the list of components included in the _misc_giogziro95.lib_ library file
 
 #### Using
 
-##### Using a library
-
-To use a library, after you clone the repo using Git (or download and extract the archive):
+**To use a library, after you clone the repo using Git (or download and extract the archive):**
 
 1. Go to KiCad and load Eeschema.
 2. Go to _Preferences_ → _Component Libraries_.
@@ -34,9 +32,7 @@ To use a library, after you clone the repo using Git (or download and extract th
 4. Click OK.
 5. Now you can place the components from this library.
 
-##### Using an individual symbol
-
-If you want to import a symbol into an already existing library instead, you can do the following:
+**If you want to import an individual symbol into an already existing library instead, you can do the following:**
 
 1. Go to KiCad and load the schmatic library editor.
 2. Select your working library and create a new component in there.
