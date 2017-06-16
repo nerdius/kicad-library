@@ -6,7 +6,9 @@
 
 ### [Eeschema](https://github.com/giogziro95/kicad-library/tree/master/eeschema)
 
-Components:
+#### Components
+
+Here's the list of components included in the _misc_giogziro95.lib_ library file:
 
 * 7405 (6-bit buffer / line driver; inverting)
 * 74141 (BCD to decimal decoder/driver; active-high outputs)
@@ -20,14 +22,22 @@ Components:
 * Load_cell (4-wire load cell for weigh scales)
 * Wheatstone_bridge (Wheatstone bridge)
 
-To use the library, after you clone the repo using Git (or download and extract the archive):
+#### Using
+
+##### Using a library
+
+To use a library, after you clone the repo using Git (or download and extract the archive):
+
 1. Go to KiCad and load Eeschema.
 2. Go to _Preferences_ → _Component Libraries_.
 3. Click _Add_ under _Component library files_, then locate and and select the _misc_giogziro95.lib_ file. (Alternatively, you can click another _Add_ under _User defined search path_ and select your project directory and then drop _misc_giogziro95.lib_ file there. This one is convinient when you use multiple libraries and you don't want to deal with adding them individually.)
 4. Click OK.
 5. Now you can place the components from this library.
 
+##### Using an individual symbol
+
 If you want to import a symbol into an already existing library instead, you can do the following:
+
 1. Go to KiCad and load the schmatic library editor.
 2. Select your working library and create a new component in there.
 3. Click the _inport exixting drawings_ button on the right toolbar.
