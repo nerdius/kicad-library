@@ -10,8 +10,8 @@
 
 **Here's the list of components included in the _misc_giogziro95.lib_ library file:**
 
-* 7405 (6-bit buffer / line driver; inverting)
-* 74141 (BCD to decimal decoder/driver; active-high outputs)
+* 7405 (alias: 555ЛН2) (6-bit buffer / line driver; inverting)
+* 74141 (alias: 155ИД1) (BCD to decimal decoder/driver; active-high outputs)
 * AC110V (110V/60Hz AC power source)
 * AC220V (220V/50Hz AC power source)
 * AC_custom (AC power source; customizable label)
@@ -37,7 +37,9 @@
 1. Go to KiCad and load the schmatic library editor.
 2. Select your working library.
 3. On the top toolbar, click the _Import component_ button.
-4. If you want to, do some final edits, tweaks, customizations, etc.
-5. Save the library and confirm your changes.
+4. Select for the desired component librery file.
+5. If you want to, do some final edits, tweaks, customizations, etc.
+6. On the top toolbar, click _Update current component in current library_ button.
+7. Save the library and confirm your changes.
 
 **<p align="center">Happy designing!</p>**
