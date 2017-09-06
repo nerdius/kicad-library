@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FSR
+D Force-sensitive resistor
+K FSR R res resistor sensor
+$ENDCMP
+#
+#End Doc Library

@@ -12,17 +12,12 @@ K TTL decod decod10
 F https://neon1.net/nixieclock/sn74141.pdf
 $ENDCMP
 #
-$CMP AC110V
-D 110V/60Hz AC power source
-K AC power pwr
+$CMP AC-DC_power_supply
+D AC-to-DC power supply
+K PS AC DC PWR adapter
 $ENDCMP
 #
-$CMP AC220V
-D 220V/50Hz AC power source
-K AC power pwr
-$ENDCMP
-#
-$CMP AC_custom
+$CMP AC_power
 D AC power source; customizable label
 K AC power pwr
 $ENDCMP
@@ -37,6 +32,11 @@ $CMP Arduino_Uno_R3
 D Arduino Uno, a programmable single-board microcontroller based on ATmega328P
 K Atmel CMOS MCU SPI 8-bit
 F http://vctec.co.kr/web/product/BAE/img/Arduinodocumentation.pdf
+$ENDCMP
+#
+$CMP DC_power
+D DC power source; customizable label
+K DC power pwr
 $ENDCMP
 #
 $CMP FSR

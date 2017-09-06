@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DC_power
+D DC power source; customizable label
+K DC power pwr
+$ENDCMP
+#
+#End Doc Library

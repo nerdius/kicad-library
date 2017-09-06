@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Load_cell
+D 4-wire load cell for weigh scales
+K Wheatstone bridge R res resistor FSR sensor
+F http://www.robotshop.com/media/files/pdf/datasheet-3134.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 7405
+D 6-bit buffer / line driver; inverting
+K TTL buffer inv
+F http://www.ti.com/lit/ds/symlink/sn74ls05.pdf
+$ENDCMP
+#
+#End Doc Library

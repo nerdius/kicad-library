@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74141
+D BCD to decimal decoder/driver; active-high outputs
+K TTL decod decod10
+F https://neon1.net/nixieclock/sn74141.pdf
+$ENDCMP
+#
+#End Doc Library

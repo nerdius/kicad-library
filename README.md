@@ -32,15 +32,12 @@
 4. Click OK.
 5. Now you can place the components from this library.
 
-**If you want to import an individual symbol into an already existing library instead, you can do the following:**
+**If you want to import an individual component into an already existing library instead, you can do the following:**
 
 1. Go to KiCad and load the schmatic library editor.
-2. Select your working library and create a new component in there.
-3. Click the _inport exixting drawings_ button on the right toolbar.
-4. Do some final edits, tweaks, and customizations of properties, etc.
+2. Select your working library.
+3. On the top toolbar, click the _Import component_ button.
+4. If you want to, do some final edits, tweaks, customizations, etc.
 5. Save the library and confirm your changes.
-
-**Note:** You can also import a symbol within an existing component. To do that, just substitute the second step with selecting the library and loading a component.  
-**Note 2:** If you just want to use a component from this library, it's highly recommended if you use the entire library rather than the individual components; it's time-saving and it automatically imports all the layouts, properties, descriptions, aliases and keywords of the components, so you don't need to re-edit and -tweak them.
 
 **<p align="center">Happy designing!</p>**

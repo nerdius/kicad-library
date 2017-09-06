@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AC-DC_power_supply
+D AC-to-DC power supply
+K PS AC DC PWR adapter
+$ENDCMP
+#
+#End Doc Library

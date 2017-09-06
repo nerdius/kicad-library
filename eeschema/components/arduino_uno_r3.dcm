@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Arduino_Uno_R3
+D Arduino Uno, a programmable single-board microcontroller based on ATmega328P
+K Atmel CMOS MCU SPI 8-bit
+F http://vctec.co.kr/web/product/BAE/img/Arduinodocumentation.pdf
+$ENDCMP
+#
+#End Doc Library

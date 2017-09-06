@@ -1,9 +1,13 @@
-EESchema-LIBRARY Version 2.3  SYMBOL  Date: Fri 16 Jun 2017 10:12:46 +04
-# SYMBOL FSR
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
 #
-DEF FSR RF 0 0 N N 1 0 N
+# FSR
+#
+DEF FSR RF 0 0 N N 1 F N
 F0 "RF" -130 0 50 V V C BNN
 F1 "FSR" 100 0 50 V V C TNN
+F2 "" 0 -250 50 H I C TNN
+F3 "" 0 -350 50 H I C TNN
 DRAW
 S -40 100 40 -100 0 1 10 N
 P 3 0 1 0 -70 100 -70 60 70 -80 N
@@ -12,3 +16,5 @@ X ~ 1 0 150 50 D 50 50 1 1 P
 X ~ 2 0 -150 50 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
+#
+#End Library

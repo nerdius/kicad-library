@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Wheatstone_bridge
+D Wheatstone bridge
+K R res resistor
+$ENDCMP
+#
+#End Doc Library

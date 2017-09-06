@@ -1,9 +1,13 @@
-EESchema-LIBRARY Version 2.3  SYMBOL  Date: Fri 16 Jun 2017 10:13:35 +04
-# SYMBOL HX711_module
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
 #
-DEF HX711_module U 0 40 Y Y 1 0 N
+# HX711_module
+#
+DEF HX711_module U 0 40 Y Y 1 F N
 F0 "U" 0 50 50 H V C CNN
 F1 "HX711_module" 0 -50 50 H V C CNN
+F2 "" 0 -650 50 H I C TNN
+F3 "" 0 -750 50 H I C TNN
 DRAW
 P 6 0 1 10 550 350 -400 350 -750 0 -400 -350 550 -350 550 350 f
 X E+ 1 -850 250 350 R 50 50 1 1 w
@@ -18,3 +22,5 @@ X DT 9 700 -100 150 L 50 50 1 1 O
 X GND 10 0 -500 150 U 50 50 1 1 W
 ENDDRAW
 ENDDEF
+#
+#End Library

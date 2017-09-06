@@ -1,9 +1,13 @@
-EESchema-LIBRARY Version 2.3  SYMBOL  Date: Fri 16 Jun 2017 10:13:49 +04
-# SYMBOL Load_cell
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
 #
-DEF Load_cell U 0 40 Y Y 1 0 N
+# Load_cell
+#
+DEF Load_cell U 0 40 Y Y 1 F N
 F0 "U" 0 50 50 H V C CNN
 F1 "Load_cell" 0 -50 50 H V C CNN
+F2 "" 0 -700 50 H I C TNN
+F3 "" 0 -800 50 H I C TNN
 DRAW
 P 3 0 0 0 -220 110 -195 135 -195 275 N
 P 3 0 0 0 110 220 135 195 275 195 N
@@ -31,3 +35,5 @@ X E- 3 0 -550 150 U 50 50 1 1 W
 X S- 4 550 0 150 L 50 50 1 1 O
 ENDDRAW
 ENDDEF
+#
+#End Library
